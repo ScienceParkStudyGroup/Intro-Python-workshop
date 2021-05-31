@@ -10,8 +10,8 @@ humandate: "24-25 June 2021"    # human-readable dates for the workshop (e.g., "
 humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-06-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-06-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["TBD"] # boxed
-helper: ["Stacy Shinneman", "TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Marc Galland"] # boxed
+helper: ["Lieke Fokkens", "Caspar Treijtel"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
