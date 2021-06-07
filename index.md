@@ -11,7 +11,7 @@ humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 
 startdate: 2021-06-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-06-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Marc Galland", "Like Fokkens", "Jesse Kerkvliet", "Caspar Treijtel"] # boxed
-helper: ["Rodrigo Silva Meneses", "Johannes De Groeve"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Rodrigo Silva Meneses", "Johannes De Groeve", "Misha Paauw"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
