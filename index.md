@@ -109,7 +109,16 @@ address.
 {% endcomment %}
 
 <p id="rooms">
-  <strong>Online course:</strong> We will meet using Zoom. Each session will begin in the main room with a short presentation by the instructor to help you get started with the module. Participants will then go to breakout rooms to work together on the module in groups of 2-3. Instructors and helpers will be available at all times for questions and problem solving. Like other Carpentries workshops, you will be learning by "coding along". To do this, you will need to have both the window for R and the window for the Zoom video conference client open. In order to see both at once, we recommend using one of the following set up options: 1) two monitors, 2) two devices, or 3) divide your screen. This <a href="https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/">blog post</a> includes detailed information on how to set up your screen to follow along during the workshop.
+  <strong>Online course:</strong> We will meet using Zoom. Instructors and helpers will be available at all times for questions and problem solving. Like other Carpentries workshops, you will be learning by "coding along". To do this, you will need to have both the window for Python and the window for the Zoom video conference client open. In order to see both at once, we recommend using one of the following set up options: 1) two monitors, 2) two devices, or 3) divide your screen. This <a href="https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/">blog post</a> includes detailed information on how to set up your screen to follow along during the workshop.
+  
+  <p id="Zoom">
+  <strong>Zoom links:</strong>
+</p>
+<ul>
+  <li>Thursday 24 June 2021 from 9:30 to 17:00:  <a href="https://uva-live.zoom.us/j/84072498557">Zoom link day 1</a></li>
+  <li>Friday 22 June 2021 from 9:30 to 17:00: <a href="https://uva-live.zoom.us/j/84742793895">Zoom link day 2</a></li>
+<br>
+</ul>
 
 {% comment %}
 DATE
