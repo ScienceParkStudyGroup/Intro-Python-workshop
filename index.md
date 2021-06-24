@@ -204,10 +204,10 @@ e.g., '2015-06-10-esu'.
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use several collaborative documents for chatting, taking notes, and sharing URLs and bits of code:  
-* Shell session (Thursday morning): <a href="https://etherpad.wikimedia.org/p/Shell_novice_24062021">Link</a>
-* Python (Thursday afternoon and Friday morning): <a href="https://etherpad.wikimedia.org/p/Python-2021-06-24">Link</a>
-* Version control (Friday morning): <a href="https://etherpad.wikimedia.org/p/version-control-2021-06-25">Link</a>
+We will use several collaborative documents for chatting, taking notes, and sharing URLs and bits of code:    
+* Shell session (Thursday morning): <a href="https://etherpad.wikimedia.org/p/Shell_novice_24062021">Link</a>  
+* Python (Thursday afternoon and Friday morning): <a href="https://etherpad.wikimedia.org/p/Python-2021-06-24">Link</a>  
+* Version control (Friday morning): <a href="https://etherpad.wikimedia.org/p/version-control-2021-06-25">Link</a>  
 </p>
 <hr/>
 
